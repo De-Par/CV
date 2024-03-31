@@ -1,2 +1,2 @@
 # CV
-Trainee developer resume
+Trainee developer resume for the Future Star Internship
