@@ -3,4 +3,4 @@ Resume of a student intern for a developer position in "Future Star Internship".
 #####  The link to download resume: [CLICK](https://github.com/De-Par/CV/blob/main/CV.pdf)
 
 # Warning
-To make the links clickable, download the "CV.pdf" document!
+To make the links clickable, download resume from the link above!
