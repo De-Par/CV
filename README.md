@@ -1,2 +1,2 @@
-# Resume
-Trainee developer resume for the Future Star Internship
+# About
+Resume of a student intern for a developer position. Repository also contains documents confirming this.
