@@ -5,7 +5,7 @@ Welcome to my CV repository!
 This page is a short entry point for recruiters and hiring teams. My full background, experience, projects, and supporting details are available in the attached CV file:
 
 <p>
-  <a href="https://github.com/De-Par/CV/raw/main/CV.pdf">
+  <a href="https://github.com/De-Par/CV/raw/main/cv/CV.pdf">
     <img alt="Download CV" src="https://img.shields.io/badge/Download-CV-1f6feb?style=for-the-badge">
   </a>
 </p>
