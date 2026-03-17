@@ -15,9 +15,11 @@ This page is a short entry point for recruiters and hiring teams. My full backgr
 
 | # | File | Type | Summary |
 |---|---|:---:|---|
-| 1 | [samsung-it-school](./docs/2020-samsung-it-school-certificate-and-regional-winner-diploma.pdf) | `certificate & diploma` | Samsung IT School completion certificate and regional project competition winner diploma (2020). |
-| 2 | [digital-breakthrough-certificate](./docs/2023-digital-breakthrough-ai-participant-certificate.pdf) | `certificate` | Participant certificate for the nationwide Digital Breakthrough hackathon, AI season (2023). |
-| 3 | [digital-breakthrough-presentation](./docs/2023-digital-breakthrough-project-presentation-alyonushka.pdf) | `project presentation` | Team presentation for the AI voice assistant project “Alyonushka” created during Digital Breakthrough 2023. |
-| 4 | [sber-hack-lab](./docs/2025-sber-hack-lab-winner-diploma.pdf) | `diploma` | Winner diploma from Hack Lab (General Sponsor: Sber), 2025. |
-| 5 | [android-messenger-project-report](./docs/android-messenger-project-report-java-firebase.docx) | `project report` | Detailed report on building an Android messenger with Java, XML, Firebase, UX research, and performance analysis. |
-| 6 | [lobachevsky-university-award](./docs/lobachevsky-university-award-reference.md) | `award reference` | Official reference to 1st place in the “Applied Informatics and Mathematics” section at the regional conference. |
+| 1 | [sber-hack-lab](./docs/2025-sber-hack-lab-winner-diploma.pdf) | `diploma` | Winner diploma from Hack Lab (General Sponsor: Sber), 2025. |
+| 2 | [yadro-risc-v-winter-school](./docs/2025-yadro-risc-v-winter-school.pdf) | `certificate` | Certificate from the YADRO Winter School “Programming for RISC-V”, held on February 3-8, 2025. |
+| 3 | [neimark-2023-achievements](./docs/neimark-2023-achievement-summary.md) | `award reference` | Summary of NEIMARK 2023 recognitions: mentorship appreciation, digital ethics project winner diploma, and participation certificate. |
+| 4 | [digital-breakthrough-certificate](./docs/2023-digital-breakthrough-ai-participant-certificate.pdf) | `certificate` | Participant certificate for the nationwide Digital Breakthrough hackathon, AI season (2023). |
+| 5 | [digital-breakthrough-presentation](./docs/2023-digital-breakthrough-project-presentation-alyonushka.pdf) | `project presentation` | Team presentation for the AI voice assistant project “Alyonushka” created during Digital Breakthrough 2023. |
+| 6 | [android-messenger-project-report](./docs/android-messenger-project-report-java-firebase.docx) | `project report` | Detailed report on building an Android messenger with Java, XML, Firebase, UX research, and performance analysis. |
+| 7 | [samsung-it-school](./docs/2020-samsung-it-school-certificate-and-regional-winner-diploma.pdf) | `certificate & diploma` | Samsung IT School completion certificate and regional project competition winner diploma (2020). |
+| 8 | [lobachevsky-university-award](./docs/lobachevsky-university-award-reference.md) | `award reference` | Official reference to 1st place in the “Applied Informatics and Mathematics” section at the regional conference. |
