@@ -23,3 +23,9 @@ This page is a short entry point for recruiters and hiring teams. My full backgr
 | 6 | [android-messenger-project-report](./docs/android-messenger-project-report-java-firebase.docx) | `project report` | Detailed report on building an Android messenger with Java, XML, Firebase, UX research, and performance analysis. |
 | 7 | [samsung-it-school](./docs/2020-samsung-it-school-certificate-and-regional-winner-diploma.pdf) | `certificate & diploma` | Samsung IT School completion certificate and regional project competition winner diploma (2020). |
 | 8 | [lobachevsky-university-award](./docs/lobachevsky-university-award-reference.md) | `award reference` | Official reference to 1st place in the “Applied Informatics and Mathematics” section at the regional conference. |
+
+## License
+
+This CV is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+© De-Par
